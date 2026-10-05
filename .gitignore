@@ -1,1 +1,18 @@
+# Raw GWAS data
+*.gz
+*.bgz
 
+# Large data files
+data/raw/
+*.bed
+*.bim
+*.fam
+
+# R temporary/session files
+.Rhistory
+.RData
+.Rproj.user/
+
+# Operating system files
+.DS_Store
+Thumbs.db
