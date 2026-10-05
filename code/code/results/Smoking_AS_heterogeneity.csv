@@ -1,0 +1,3 @@
+"id.exposure","id.outcome","outcome","exposure","method","Q","Q_df","Q_pval"
+"Smoking","AS_GWAS","Ankylosing spondylitis","Smoking initiation","MR Egger",21.1904397700533,17,0.217887513158218
+"Smoking","AS_GWAS","Ankylosing spondylitis","Smoking initiation","Inverse variance weighted",21.1953858238615,18,0.269670463854641
