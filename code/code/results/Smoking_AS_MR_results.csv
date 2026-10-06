@@ -1,6 +1,0 @@
-"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
-"Smoking","AS_GWAS","Ankylosing spondylitis","Smoking initiation","MR Egger",19,-0.192957104275719,1.34568016030784,0.887668114686123
-"Smoking","AS_GWAS","Ankylosing spondylitis","Smoking initiation","Weighted median",19,-0.0755786361623945,0.338163419299372,0.823148426767988
-"Smoking","AS_GWAS","Ankylosing spondylitis","Smoking initiation","Inverse variance weighted",19,-0.276029802394781,0.260178081359058,0.288723337975006
-"Smoking","AS_GWAS","Ankylosing spondylitis","Smoking initiation","Simple mode",19,-0.29100161819223,0.581834429912168,0.623032331470388
-"Smoking","AS_GWAS","Ankylosing spondylitis","Smoking initiation","Weighted mode",19,-0.208739663124373,0.533654606953854,0.700276848702532

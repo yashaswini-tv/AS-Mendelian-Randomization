@@ -1,6 +1,0 @@
-"id.exposure","id.outcome","outcome","exposure","method","nsnp","b","se","pval"
-"GCST006900","AS_GWAS","Ankylosing spondylitis","Body mass index","MR Egger",489,0.185287367656638,0.155063107672092,0.232701493951658
-"GCST006900","AS_GWAS","Ankylosing spondylitis","Body mass index","Weighted median",489,0.0658604529519872,0.0870400347146881,0.44924848812909
-"GCST006900","AS_GWAS","Ankylosing spondylitis","Body mass index","Inverse variance weighted",489,-0.0104357630491399,0.0607791728602411,0.863673656566606
-"GCST006900","AS_GWAS","Ankylosing spondylitis","Body mass index","Simple mode",489,0.12476746104274,0.274597788593429,0.649768594578934
-"GCST006900","AS_GWAS","Ankylosing spondylitis","Body mass index","Weighted mode",489,0.0759000412525674,0.142048695691644,0.593360654356263
