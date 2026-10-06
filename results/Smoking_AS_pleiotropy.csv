@@ -1,0 +1,2 @@
+"id.exposure","id.outcome","outcome","exposure","egger_intercept","se","pval"
+"Smoking","AS_GWAS","Ankylosing spondylitis","Smoking initiation",-0.00128608093523658,0.0204166463512219,0.950507779290474
