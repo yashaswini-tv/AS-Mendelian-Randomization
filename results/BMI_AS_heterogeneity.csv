@@ -1,0 +1,3 @@
+id.exposure,id.outcome,outcome,exposure,method,Q,Q_df,Q_pval
+GCST006900,AS_GWAS,Ankylosing spondylitis,Body mass index,MR Egger,2783.79523618033,489,1.11253693560758e-308
+GCST006900,AS_GWAS,Ankylosing spondylitis,Body mass index,Inverse variance weighted,2791.18942794744,490,1.11253692997196e-308
